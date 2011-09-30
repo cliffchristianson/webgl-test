@@ -1,0 +1,4 @@
+This is just a simple test of exporting a blender object into x3d format and then importing the vertices into webgl
+to demonstrate high framerate animation on the internet
+
+Currently webgl isn't supported by IE so you will need to use chrome or firefox
